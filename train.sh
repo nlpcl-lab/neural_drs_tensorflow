@@ -1,0 +1,1 @@
+python runner.py train --model_dir "checkpoint"
