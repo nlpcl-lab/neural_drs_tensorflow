@@ -1,5 +1,6 @@
 # Neural DRS
 TensorFlow Implementation of DRS Parsing, inspired by original implementation of Neural DRS repository [[github]](https://github.com/RikVN/Neural_DRS)
+
 For details, please refer Discourse Representation Theory and lines of research for DRS Parsing. Especially, the Parallel Meaning Bank.
 
 ## Usage
