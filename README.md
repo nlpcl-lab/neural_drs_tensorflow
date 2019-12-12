@@ -1,5 +1,5 @@
 # Neural DRS
-TensorFlow Implementation of DRS Task
+TensorFlow Implementation of DRS Parsing. For details, please refer Discourse Representation Theory and lines of research for DRS Parsing. Especially, the Parallel Meaning Bank.
 
 ## Usage
 Install the packages.
