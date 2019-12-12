@@ -5,10 +5,15 @@ TensorFlow Implementation of DRS Task
 
 ### Train
 ```
-python train.py
+./train.sh
+```
+
+### Extract
+```
+./extract.sh
 ```
 
 ### Evaluation
 ```
-python eval.py --model_path=latest_model.pt
+./test.sh
 ```
