@@ -15,7 +15,7 @@ Install the packages.
 ./train.sh
 ```
 
-### Extract
+### Post-processing
 ```
 ./extract.sh
 ```
