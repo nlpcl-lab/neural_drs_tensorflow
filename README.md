@@ -22,3 +22,8 @@ Install the packages.
 ```
 ./test.sh
 ```
+
+## Reference
+* Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation (EMNLP 2018), Liu et al. [[paper]](https://arxiv.org/abs/1809.09078)
+* lx865712528's EMNLP2018-JMEE repository [[github]](https://github.com/lx865712528/EMNLP2018-JMEE)
+* Kyubyong's bert_ner repository [[github]](https://github.com/Kyubyong/bert_ner)
